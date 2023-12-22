@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chirag shukla</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Python & Java Enthusiast 💻 | Passionate about crafting elegant code and building innovative solutions 🛠️ | Turning coffee into code since [Year Started Programming] ☕ | Open-source advocate 🌐 | Ready to collaborate and conquer the coding universe! 🚀 #CodePassion #Java #Python #SoftwareEngineering 🚀</h3>
+<h3 align="center">🚀 Aspiring Software Developer | Python & Java Enthusiast 💻 | Passionate about crafting elegant code and building innovative solutions 🛠️ | Turning coffee into code since [2021] ☕ | Open-source advocate 🌐 | Ready to collaborate and conquer the coding universe! 🚀 #CodePassion #Java #Python #SoftwareEngineering 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragshukla222&label=Profile%20views&color=0e75b6&style=flat" alt="chiragshukla222" /> </p>
 |<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
