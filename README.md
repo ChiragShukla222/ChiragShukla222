@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragshukla222&label=Profile%20views&color=0e75b6&style=flat" alt="chiragshukla222" /> </p>
 |<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Implementation of Python with ML**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **DSA with java**
+- 🤝 I’m looking for help with **Ai and development **
 
-- 💬 Ask me about **JAVA, System Design, Oops, PYTHON, ML, Power bI,MERN,Git&Github**
+- 💬 Ask me about **JAVA, System Design, Oops, C++, Power bI, MERN, Git & Github**
 
 - 📫 How to reach me **shuklachirag57@gmail.com**
 
